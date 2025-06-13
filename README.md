@@ -13,7 +13,7 @@ A modern, responsive tour planning application built with React and Tailwind CSS
 
 ## 🚀 Live Demo
 
-(LIVE!)[Add your deployed application link here]
+[LIVE!](https://planing-l10o21qul-sumitksrs-projects.vercel.app/)]
 
 ## 🛠️ Technologies Used
 
