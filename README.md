@@ -2,8 +2,6 @@
 
 A modern, responsive tour planning application built with React and Tailwind CSS. This application allows users to browse through various tour destinations, view details, and manage their tour preferences.
 
-![Tour Planning App](https://via.placeholder.com/800x400?text=Tour+Planning+App)
-
 ## ✨ Features
 
 - 🎨 Modern dark theme UI with smooth animations
@@ -15,7 +13,7 @@ A modern, responsive tour planning application built with React and Tailwind CSS
 
 ## 🚀 Live Demo
 
-[Add your deployed application link here]
+(LIVE!)[Add your deployed application link here]
 
 ## 🛠️ Technologies Used
 
@@ -29,7 +27,7 @@ A modern, responsive tour planning application built with React and Tailwind CSS
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/tour-planning-app.git
+git clone https://github.com/sumitksr/tour-planning-app.git
 ```
 
 2. Navigate to the project directory:
@@ -79,28 +77,4 @@ src/
 - Mobile-friendly interface
 - Flexible card layout
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/tour-planning-app/issues).
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👏 Acknowledgments
-
-- React.js team for the amazing framework
-- Tailwind CSS for the utility-first CSS framework
-- All contributors who have helped shape this project
-
-## 📧 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/tour-planning-app](https://github.com/yourusername/tour-planning-app)
